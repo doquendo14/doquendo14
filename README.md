@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to my profile!
+
+I am a graduate student at DePaul's CompSci program - here you will find some projects I've worked on as as a student, and at times in collaboration with other students. You may also find some game projects that were developed in my time as a Game Design undegrad student at DePaul. Please feel free to look and comment on anything you find particularly interesting!
+
+Catch you around!
 
 <!--
 **doquendo14/doquendo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
